@@ -20,7 +20,8 @@ Open source CAD models and C# software for making a low-cost IR-MALDESI instrume
 * 3D scanner - Keyence IX-360 + IX-H2000 + OP-88347 + OP-87903 + DL-EN1
 * Safety laser scanner - Keyence SZ-V series
 * Arduino Mega Rev3
-* Power supplies and terminals - Phoenix Contact 2866763 +  2866284 + 2315256 
+* Power supplies and terminals - Phoenix Contact 2866763 +  2866284 + 2315256
+* QE instrument panel connections - COMBICON_MC1.5/8ST-3.81 and COMBICON_MC1.5/6ST-3.81 
 * Optics - Thorlabs KCB05 + LA5183-E + PF05-03-M02 + SM05V10 + SM05L10
 * Syringe pump
 * Tecan Roma Gripper
